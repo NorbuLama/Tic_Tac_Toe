@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bf10bf2-c034-4555-ab6b-c4f699247093" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2TG2MD8utnf4mtMJ8OU1pqiMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Tic_Tac_Toe">
+    <configuration name="Tic_Tac_Toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tic_Tac_Toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dfdf (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/dfdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dfdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sdfhgsgh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdfhgsgh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sdfsdfsff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Final Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdfsdfsff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tic_Tac_Toe" />
+        <item itemvalue="Python.sdfsdfsff" />
+        <item itemvalue="Python.dfdf" />
+        <item itemvalue="Python.sdfhgsgh" />
+        <item itemvalue="Python.dfdf (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf10bf2-c034-4555-ab6b-c4f699247093" name="Default Changelist" comment="" />
+      <created>1585932589168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585932589168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="810" height="257" key="GridCell.Tab.0.bottom" timestamp="1587441409328">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="809" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587064317249" />
+    <state width="809" height="257" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586801628226" />
+    <state width="810" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1587158318009" />
+    <state width="810" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1587441409328" />
+    <state width="810" height="257" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587071202715" />
+    <state width="809" height="257" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1586799425857" />
+    <state width="810" height="257" key="GridCell.Tab.0.center" timestamp="1587441409327">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="809" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587064317247" />
+    <state width="809" height="257" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1586801628225" />
+    <state width="810" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1587158318008" />
+    <state width="810" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1587441409327" />
+    <state width="810" height="257" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587071202714" />
+    <state width="809" height="257" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1586799425856" />
+    <state width="810" height="257" key="GridCell.Tab.0.left" timestamp="1587441409327">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="809" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587064317247" />
+    <state width="809" height="257" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1586801628225" />
+    <state width="810" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1587158318008" />
+    <state width="810" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1587441409327" />
+    <state width="810" height="257" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587071202714" />
+    <state width="809" height="257" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1586799425855" />
+    <state width="810" height="257" key="GridCell.Tab.0.right" timestamp="1587441409328">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="809" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587064317248" />
+    <state width="809" height="257" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1586801628225" />
+    <state width="810" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1587158318008" />
+    <state width="810" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1587441409328" />
+    <state width="810" height="257" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587071202715" />
+    <state width="809" height="257" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1586799425856" />
+  </component>
+</project>
