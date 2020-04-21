@@ -1,3 +1,5 @@
+# Norbu Lama
+# CS 1411 Final Project
 import turtle
 import sys
 
@@ -181,7 +183,7 @@ def is_winner():
                 turtle.bye()
                 sys.exit()
             elif d[1] == 'X' and d[4] == 'X' and d[7] == 'X':
-                print("CONGRATULATION !!! SECOND PLAYER 'O' WON THE GAME ")
+                print("CONGRATULATION !!! SECOND PLAYER 'X' WON THE GAME ")
                 turtle.bye()
                 sys.exit()
         if 3 in d.keys() and 6 in d.keys() and 9 in d.keys():
@@ -190,7 +192,7 @@ def is_winner():
                 turtle.bye()
                 sys.exit()
             elif d[3] == 'X' and d[6] == 'X' and d[9] == 'X':
-                print("CONGRATULATION !!! SECOND PLAYER 'O' WON THE GAME ")
+                print("CONGRATULATION !!! SECOND PLAYER 'X' WON THE GAME ")
                 turtle.bye()
                 sys.exit()
         if 1 in d.keys() and 5 in d.keys() and 9 in d.keys():
@@ -209,8 +211,8 @@ def is_winner():
                 print("CONGRATULATION !!! FIRST PLAYER 'O' WON THE GAME ")
                 turtle.bye()
                 sys.exit()
-            elif d[3] == 'O' and d[5] == 'O' and d[7] == 'O':
-                print("CONGRATULATION !!! SECOND PLAYER 'O' WON THE GAME ")
+            elif d[3] == 'X' and d[5] == 'X' and d[7] == 'X':
+                print("CONGRATULATION !!! SECOND PLAYER 'X' WON THE GAME ")
                 turtle.bye()
                 sys.exit()
 
