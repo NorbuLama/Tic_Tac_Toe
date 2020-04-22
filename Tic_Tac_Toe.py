@@ -14,7 +14,6 @@ def user_input():   # input choice validation.
     global first_player
     c = True
     if first_player == "X" or first_player == "x" or first_player == "O" or first_player == "o":
-        print("LOL")
         c = False
     else:
         while c is True:
